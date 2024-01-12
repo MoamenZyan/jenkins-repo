@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "It Worked !!"
-echo "But this time is something new !!"
+echo "Welcome To The New Age !!"
