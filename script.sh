@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Welcome To The New Age !!"
-echo "That's Totally New"
+echo "That's Totally New !"
